@@ -59,6 +59,7 @@ h2{
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     width:298px;
+    background-color:#fff9f5;
 }
 
 .name{
@@ -78,4 +79,5 @@ h2{
     background-color:#2c2c2c;
     color:white;
     padding:30px 40px;
+
 }
